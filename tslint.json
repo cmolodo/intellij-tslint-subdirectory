@@ -1,0 +1,20 @@
+{
+    "rules": {
+        "directive-selector": [
+            true,
+            "attribute",
+            "root",
+            "camelCase"
+        ],
+        "component-selector": [
+            true,
+            "element",
+            "root",
+            "kebab-case"
+        ],
+        "quotemark": [
+            true,
+            "double"
+        ]
+    }
+}
